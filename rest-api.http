@@ -1,0 +1,14 @@
+GET localhost:3000/hello
+
+<> 2018-07-09T120755.200.json
+
+###
+
+POST localhost:3000/hello
+
+{"body":"Jason"}
+
+<> 2018-07-09T121244.200.json
+<> 2018-07-09T120857.400.json
+
+###
